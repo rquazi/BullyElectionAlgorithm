@@ -1,0 +1,84 @@
+20: Sending election message to neighbour: 0
+20: Sending election message to neighbour: 1
+20: Sending election message to neighbour: 2
+20: Sending election message to neighbour: 3
+20: Sending election message to neighbour: 4
+20: Sending election message to neighbour: 5
+20: Sending election message to neighbour: 6
+20: Recieved election message from: 20
+97: Sending election message to neighbour: 0
+20: Recieved election message from: 97
+20: New message from higher process ID. Selected 97 as current leader
+97: Sending election message to neighbour: 1
+97: Sending election message to neighbour: 2
+97: Sending election message to neighbour: 3
+97: Sending election message to neighbour: 4
+97: Sending election message to neighbour: 5
+97: Sending election message to neighbour: 6
+97: Recieved election message from: 20
+97: Recieved election message from: 97
+93: Sending election message to neighbour: 0
+20: Recieved election message from: 93
+93: Sending election message to neighbour: 1
+97: Recieved election message from: 93
+93: Sending election message to neighbour: 2
+93: Sending election message to neighbour: 3
+93: Sending election message to neighbour: 4
+93: Sending election message to neighbour: 5
+93: Sending election message to neighbour: 6
+93: Recieved election message from: 20
+93: Recieved election message from: 97
+93: New message from higher process ID. Selected 97 as current leader
+93: Recieved election message from: 93
+81: Sending election message to neighbour: 0
+20: Recieved election message from: 81
+81: Sending election message to neighbour: 1
+97: Recieved election message from: 81
+81: Sending election message to neighbour: 2
+93: Recieved election message from: 81
+81: Sending election message to neighbour: 3
+81: Sending election message to neighbour: 4
+81: Sending election message to neighbour: 5
+81: Sending election message to neighbour: 6
+81: Recieved election message from: 20
+81: Recieved election message from: 97
+81: New message from higher process ID. Selected 97 as current leader
+81: Recieved election message from: 93
+81: Recieved election message from: 81
+36: Sending election message to neighbour: 0
+20: Recieved election message from: 36
+36: Sending election message to neighbour: 1
+97: Recieved election message from: 36
+36: Sending election message to neighbour: 2
+93: Recieved election message from: 36
+36: Sending election message to neighbour: 3
+36: Sending election message to neighbour: 4
+81: Recieved election message from: 36
+74: Sending election message to neighbour: 0
+20: Recieved election message from: 74
+74: Sending election message to neighbour: 1
+97: Recieved election message from: 74
+74: Sending election message to neighbour: 2
+93: Recieved election message from: 74
+74: Sending election message to neighbour: 3
+81: Recieved election message from: 74
+74: Sending election message to neighbour: 4
+7: Sending election message to neighbour: 0
+20: Recieved election message from: 7
+7: Sending election message to neighbour: 1
+97: Recieved election message from: 7
+7: Sending election message to neighbour: 2
+93: Recieved election message from: 7
+7: Sending election message to neighbour: 3
+81: Recieved election message from: 7
+7: Sending election message to neighbour: 4
+20Elected Leader is 97
+97Elected Leader is 97
+7: Sending election message to neighbour: 5
+36: Sending election message to neighbour: 5
+74: Sending election message to neighbour: 5
+93Elected Leader is 97
+81Elected Leader is 97
+36Elected Leader is 36
+74Elected Leader is 74
+7Elected Leader is 7
